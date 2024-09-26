@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^create-state create-state.php
+RewriteRule ^index$ index.php
+RewriteRule ^edit-state-([a-zA-Z0-9_-]+)$ edit-state.php?id=$1

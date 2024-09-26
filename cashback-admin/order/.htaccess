@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^index$ index.php
+RewriteRule ^invoice-([a-zA-Z0-9_-]+)$ invoice.php?id=$1
+RewriteRule ^feedback-list-([a-zA-Z0-9_-]+)$ feedback-list.php?id=$1

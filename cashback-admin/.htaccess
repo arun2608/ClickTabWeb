@@ -1,0 +1,37 @@
+RewriteEngine On
+RewriteRule ^index$ index.php
+RewriteRule ^subscription-list$ subscription-list.php
+RewriteRule ^enquiry$ enquiry.php
+RewriteRule ^contact-enquiry$ contact-enquiry.php
+RewriteRule ^applied-students$ applied-students.php
+RewriteRule ^home-service$ home-service.php
+RewriteRule ^register-user$ register-user.php
+RewriteRule ^logout$ logout.php
+RewriteRule ^admin-login$ login.php
+RewriteRule ^banner$ banner.php
+RewriteRule ^lander$ lander.php
+RewriteRule ^home-page-banners$ home-page-banners.php
+RewriteRule ^report$ report.php
+RewriteRule ^click-report$ click-report.php
+RewriteRule ^transaction-report$ transaction-report.php
+RewriteRule ^withrawal$ withrawal.php
+RewriteRule ^edit-lander-link$ edit-lander-link.php
+RewriteRule ^become-a-partner$ become-a-partner.php
+RewriteRule ^cashback-brand cashback-brand.php
+RewriteRule ^edit-popular-brand$ edit-popular-brands.php
+RewriteRule ^referal-earning$ referal-earning.php
+RewriteRule ^total-earning$ total-earning.php
+RewriteRule ^support$ support.php
+RewriteRule ^testimonials$ testimonials.php
+RewriteRule ^create-testimonial$ create-testimonial.php
+RewriteRule ^import-bulk-transactions$ import-bulk-transactions.php
+RewriteRule ^import-bulk-withdrawl$ import-bulk-withdrawl.php
+RewriteRule ^import-offline-transactions$ import-offline-transactions.php
+RewriteRule ^edit-banner-([a-zA-Z0-9_-]+)$ edit-banner.php?id=$1
+RewriteRule ^edit-home-service-([a-zA-Z0-9_-]+)$ edit-home-service.php?id=$1
+RewriteRule ^edit-testimonial-([a-zA-Z0-9_-]+)$ edit-testimonial.php?id=$1
+
+
+
+
+

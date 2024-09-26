@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^create-coupon$ create-coupon.php
+RewriteRule ^import-coupon$ import-coupon.php
+RewriteRule ^index$ index.php
+RewriteRule ^edit-coupon-([a-zA-Z0-9_-]+)$ edit-coupon.php?id=$1

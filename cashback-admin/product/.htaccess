@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteRule ^index$ index.php
+RewriteRule ^create-category$ create-category.php
+RewriteRule ^category-list$ category-list.php
+RewriteRule ^brand-list$ brand-list.php
+RewriteRule ^create-brand$ create-brand.php
+RewriteRule ^create-subcat$ create-subcat.php
+RewriteRule ^subcat-list$ subcat-list.php
+RewriteRule ^create-product$ create-product.php
+RewriteRule ^edit-category-([a-zA-Z0-9_-]+)$ edit-category.php?id=$1
+RewriteRule ^edit-subcat-([a-zA-Z0-9_-]+)$ edit-subcat.php?id=$1
+RewriteRule ^edit-product-([a-zA-Z0-9_-]+)$ edit-product.php?id=$1
+RewriteRule ^edit-brand-([a-zA-Z0-9_-]+)$ edit-brand.php?id=$1
+
+
+

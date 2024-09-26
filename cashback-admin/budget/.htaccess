@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^index$ index.php
+RewriteRule ^create-predictor$ create-predictor.php
+RewriteRule ^edit-predictor-([a-zA-Z0-9_-]+)$ edit-predictor.php?id=$1

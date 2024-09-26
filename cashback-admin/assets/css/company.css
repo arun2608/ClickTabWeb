@@ -1,0 +1,107 @@
+.meeting-details
+{
+	background: #fff;
+	padding: 15px;
+}
+.meeting-details>span
+{
+	padding-left: 25px;
+	line-height: 22px;
+	font-size: 13px;
+}
+.metting_holder
+{
+	width:100%;
+	margin: 0;
+	padding:10px 25px;
+	float: left;
+	background: #eee;
+}
+.metting_holder hr
+{
+margin-top: 5px !important;
+	margin-bottom: 5px !important;
+}.upload_file {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.upload_file label {
+	padding:0 10px !important;
+	text-align: left;
+	background: #f0edea;
+	display: table;
+	color: #333;
+	width: 100%;
+	height:25px;
+	font-size: 12px;
+	line-height:25px;
+	border-radius:5px !important;
+	border: 1px solid #ccc;
+}
+.upload_file label:hover {
+	background: #e6e6e5;
+}
+.uplo_file 
+{
+	background: #00a1d8;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid #00a1d8;
+	border-radius:15px; 
+}.opt_Doc 
+{
+	background: #ccc;
+	height: 35px !important;
+	width: 100% !important;
+	border-radius: 0 !important;
+}
+.opt_Doc label
+{
+    background: #ccc !important;
+    line-height: 21px !important;
+    margin-top: 7px !important;
+    font-size: 14px !important;
+}
+.uplo_DOC_file {
+    background: #00a1d8;
+    color: #fff;
+    padding:0 20px;
+    border: 1px solid #00a1d8;
+    border-radius:1px;
+	height: 35px;
+	font-size: 14px;
+	text-align: center;
+	line-height: 34px;
+	text-transform: uppercase;
+}
+.uplo_DOC_file:hover{
+	background: #E66C00;
+	 border: 1px solid #E66C00;
+	transition: .4s ease-out;
+}
+.add-doc_holdeR 
+{
+	width: 100%;
+	padding: 15px 7px 0 7px !important;
+}
+.add-doc_holdeR table  tr td
+{
+	border: none !important;
+}
+.add-doc_holdeR em
+{
+	color: #098bb8;
+	font-style: normal;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.add-doc_holdeR a
+{
+	color: #098bb8;
+	font-style: normal;
+	margin: 0;
+	font-size: 15px !important;
+	padding: 0;
+}

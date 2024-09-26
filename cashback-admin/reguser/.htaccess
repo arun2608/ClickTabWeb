@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^create-reguser create-reguser.php
+RewriteRule ^import-reguser import-reguser.php
+RewriteRule ^index$ index.php
+RewriteRule ^edit-reguser-([a-zA-Z0-9_-]+)$ edit-reguser.php?id=$1
+
+

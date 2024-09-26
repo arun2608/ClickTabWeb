@@ -1,0 +1,91 @@
+.basic-modal-content {display:none;}
+.order-service-delivered-document{
+	cursor:pointer;
+}
+
+.service-preview{
+	height: 460px !important;
+    width: 1000px !important;
+	top:15% !important;
+	left:15% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+
+.lead-commission-popup{
+	height: 300px !important;
+    width: 400px !important;
+	top:15% !important;
+	left:35% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+.govt-fees-popup{
+	height: 300px !important;
+    width: 600px !important;
+	top:15% !important;
+	left:25% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+.popup-followup-data{
+	height: 460px !important;
+    width: 800px !important;
+	top:15% !important;
+	left:20% !important;
+	background: #f2f3f4 !important;
+}
+
+.order-service-document{
+	height: 360px !important;
+    width: 400px !important;
+	top:15% !important;
+	left:35% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+.cash-payment-summary{
+	height: 360px !important;
+    width: 400px !important;
+	top:15% !important;
+	left:35% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+.service-preview{
+	height: 460px !important;
+    width: 1000px !important;
+	top:15% !important;
+	left:15% !important;
+	margin:0 auto;
+	max-height: 460px;
+}
+.order-service-director-data{
+	height: 600px !important;
+    width: 500px !important;
+	top:5% !important;
+	left:30% !important;
+	margin:0 auto;
+	max-height: 600;
+}
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {height:360px; width:600px; color:#333; background-color:#fff;z-index:9999999 !important;}
+#simplemodal-container .simplemodal-data {}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a.modalCloseImg {background:url(../img/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
+#simplemodal-overlay{z-index:9999999 !important;}
+.save-button-small
+{
+    font-size: 10px;
+    border: 1px solid #fff;
+}
+.save-button-small:hover
+{
+    background: #fff;
+    color: #e74b48;
+    text-decoration: none;
+}

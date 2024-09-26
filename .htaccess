@@ -1,0 +1,48 @@
+RewriteEngine On
+# RewriteRule ^index$ index.php
+RewriteRule ^register$ register.php
+RewriteRule ^logout$ logout.php
+RewriteRule ^forgot-password$ forgot-password.php
+RewriteRule ^reset-password$ reset-password.php
+RewriteRule ^signup-cashback$ signup-cashback.php
+RewriteRule ^how-it-works$ how-it-works.php
+RewriteRule ^index$ index.php
+RewriteRule ^privacy-policy$ privacy-policy.php
+RewriteRule ^contact-us$ contact.php
+RewriteRule ^become-a-partner$ become-a-partner.php
+RewriteRule ^terms-&-conditions$ terms-&-conditions.php
+RewriteRule ^about-us$ about-us.php
+RewriteRule ^anti-spam-policy$ anti-spam-policy.php
+RewriteRule ^privacy-policy$ privacy-policy.php
+RewriteRule ^terms$ terms.php
+RewriteRule ^store_refer$ store_refer.php
+RewriteRule ^CTW-cashback CTW-cashback.php
+RewriteRule ^blogs$ blogs.php
+RewriteRule ^lander$ lander.php
+RewriteRule ^blog-detail$ blog-detail.php
+RewriteRule ^cookies$ cookies.php
+RewriteRule ^all-stores$ all-stores.php
+RewriteRule ^daily-deals$ daily-deals.php
+RewriteRule ^all-products all-products.php
+RewriteRule ^refer-and-earn refer.php
+RewriteRule ^top20$ top20.php
+RewriteRule ^blogs$ blog.php
+RewriteRule ^accountVerication$ accountVerication.php
+RewriteRule ^generateLink$ generateLink.php
+RewriteRule ^all-store-list$ all-store-list.php
+RewriteRule ^cashback-store$ cashback-store.php
+RewriteRule ^register/([a-zA-Z0-9_-]+)$ register.php?refer_code=$1
+RewriteRule ^lander/([a-zA-Z0-9_-]+)$ lander.php?token=$1
+RewriteRule ^store-refer-link/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ store-refer-link.php?store=$1&token=$2&user_sub_id=$3
+RewriteRule ^lander/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ lander.php?token=$1&url=$2&id=$3
+RewriteRule ^storeCoupon/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ store-coupons.php?url=$1&token=$2
+
+RewriteRule ^category/([a-zA-Z0-9_-]+)$ category.php?category_url=$1
+
+RewriteRule ^verify-account/([a-zA-Z0-9_-]+)$ verify-account.php?status=$1
+
+RewriteRule ^stores/([a-zA-Z0-9_-]+)$ storesByCategory.php?category_url=$1
+RewriteRule ^product/([a-zA-Z0-9_-]+)$ category-product.php?category_url=$1
+RewriteRule ^blog/([a-zA-Z0-9_-]+)$ blog-detail.php?url=$1
+RewriteRule ^details/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ details.php?id=$1&category_url=$2&store_url=$3&product_url=$4
+#RewriteRule ^([a-zA-Z0-9_-]+)$ product-listing.php?category_url=$1

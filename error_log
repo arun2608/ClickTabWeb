@@ -1,0 +1,131 @@
+[09-Sep-2024 10:25:54 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home2/cwltechin/public_html/clicktabweb/demo/details.php on line 76
+[09-Sep-2024 10:26:05 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home2/cwltechin/public_html/clicktabweb/demo/details.php on line 76
+[09-Sep-2024 14:14:18 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting identifier or variable or "{" or "$" in /home2/cwltechin/public_html/clicktabweb/demo/index.php on line 72
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 8
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 9
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 10
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 11
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 19
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 20
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 21
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 22
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 30
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 31
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 32
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 33
+[17-Sep-2024 14:03:42 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 41
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 8
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 9
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 10
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 11
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 19
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 20
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 21
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 22
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 30
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 31
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 32
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 33
+[17-Sep-2024 20:34:22 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/footer.php on line 41
+[19-Sep-2024 13:31:15 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 6
+[19-Sep-2024 13:31:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 24
+[19-Sep-2024 13:31:15 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 26
+[21-Sep-2024 18:26:44 UTC] PHP Warning:  include_once(baseurl.php): failed to open stream: No such file or directory in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:26:44 UTC] PHP Warning:  include_once(): Failed opening 'baseurl.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 14
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 15
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 16
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 17
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 19
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 23
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 28
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:26:44 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 37
+[21-Sep-2024 18:26:47 UTC] PHP Warning:  include_once(baseurl.php): failed to open stream: No such file or directory in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:26:47 UTC] PHP Warning:  include_once(): Failed opening 'baseurl.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 14
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 15
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 16
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 17
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 19
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 23
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 28
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:26:47 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 37
+[21-Sep-2024 18:27:32 UTC] PHP Warning:  include_once(baseurl.php): failed to open stream: No such file or directory in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:27:32 UTC] PHP Warning:  include_once(): Failed opening 'baseurl.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 14
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 15
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 16
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 17
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 19
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 23
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 28
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:27:32 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 37
+[21-Sep-2024 18:27:36 UTC] PHP Warning:  include_once(baseurl.php): failed to open stream: No such file or directory in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:27:36 UTC] PHP Warning:  include_once(): Failed opening 'baseurl.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/f7t0a1vhy9kd/public_html/lander.php on line 2
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 14
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 15
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 16
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 17
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 19
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 23
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: siteUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 28
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:27:36 UTC] PHP Notice:  Undefined variable: baseUrl in /home/f7t0a1vhy9kd/public_html/lander.php on line 37
+[21-Sep-2024 18:28:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:29:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:30:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:32:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 18:32:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[21-Sep-2024 19:41:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[23-Sep-2024 08:39:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:05:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:06:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:06:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:06:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:06:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:08:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:10:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[24-Sep-2024 18:10:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 10:31:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 11:53:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 12:01:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 12:08:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 13:38:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 13:41:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 13:43:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 13:44:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 13:45:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:09:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:09:11 UTC] PHP Notice:  Undefined index: token in /home/f7t0a1vhy9kd/public_html/lander.php on line 39
+[25-Sep-2024 14:09:11 UTC] PHP Notice:  Undefined index: url in /home/f7t0a1vhy9kd/public_html/lander.php on line 40
+[25-Sep-2024 14:09:11 UTC] PHP Notice:  Undefined index: id in /home/f7t0a1vhy9kd/public_html/lander.php on line 41
+[25-Sep-2024 14:11:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:11:06 UTC] PHP Notice:  Undefined index: token in /home/f7t0a1vhy9kd/public_html/lander.php on line 39
+[25-Sep-2024 14:11:06 UTC] PHP Notice:  Undefined index: url in /home/f7t0a1vhy9kd/public_html/lander.php on line 40
+[25-Sep-2024 14:11:06 UTC] PHP Notice:  Undefined index: id in /home/f7t0a1vhy9kd/public_html/lander.php on line 41
+[25-Sep-2024 14:36:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:36:06 UTC] PHP Notice:  Undefined index: token in /home/f7t0a1vhy9kd/public_html/lander.php on line 39
+[25-Sep-2024 14:36:06 UTC] PHP Notice:  Undefined index: url in /home/f7t0a1vhy9kd/public_html/lander.php on line 40
+[25-Sep-2024 14:36:06 UTC] PHP Notice:  Undefined index: id in /home/f7t0a1vhy9kd/public_html/lander.php on line 41
+[25-Sep-2024 14:51:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:51:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:51:33 UTC] PHP Notice:  Undefined variable: adminDao in /home/f7t0a1vhy9kd/public_html/lander.php on line 50
+[25-Sep-2024 14:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function storeList() on null in /home/f7t0a1vhy9kd/public_html/lander.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/f7t0a1vhy9kd/public_html/lander.php on line 50
+[25-Sep-2024 14:52:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:52:08 UTC] PHP Notice:  Undefined variable: adminDao in /home/f7t0a1vhy9kd/public_html/lander.php on line 50
+[25-Sep-2024 14:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function storeList() on null in /home/f7t0a1vhy9kd/public_html/lander.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/f7t0a1vhy9kd/public_html/lander.php on line 50
+[25-Sep-2024 14:52:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/f7t0a1vhy9kd/public_html/lander.php on line 35
+[25-Sep-2024 14:52:14 UTC] PHP Notice:  Undefined variable: adminDao in /home/f7t0a1vhy9kd/public_html/lander.php on line 50
+[25-Sep-2024 14:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function storeList() on null in /home/f7t0a1vhy9kd/public_html/lander.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/f7t0a1vhy9kd/public_html/lander.php on line 50

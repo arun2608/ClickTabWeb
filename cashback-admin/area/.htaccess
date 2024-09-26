@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^create-area$ create-area.php
+RewriteRule ^index$ index.php
+RewriteRule ^edit-area-([a-zA-Z0-9_-]+)$ edit-area.php?id=$1

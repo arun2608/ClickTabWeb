@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule ^pages$ pages.php
+RewriteRule ^pincode-list$ pincode-list.php
+RewriteRule ^create-pincode$ create-pincode.php
+RewriteRule ^create-scheduling create-scheduling.php
+RewriteRule ^page-title$ page-title.php
+RewriteRule ^scheduling-list$ scheduling-list.php
+RewriteRule ^edit-page-([a-zA-Z0-9_-]+)$ edit-page.php?id=$1
+RewriteRule ^edit-pincode-([a-zA-Z0-9_-]+)$ edit-pincode.php?id=$1
+RewriteRule ^edit-title-([a-zA-Z0-9_-]+)$ edit-title.php?id=$1
+RewriteRule ^edit-scheduling-([a-zA-Z0-9_-]+)$ edit-scheduling.php?id=$1
